@@ -1,24 +1,25 @@
 ## README
 
-[Por que se dedicar ao README?](#Por-que-se-dedicar-ao-README?)
+[Por que se dedicar ao README?](#por-que-se-dedicar-ao-readme)
 
-[A inspiração](#A-inspiração)
+[A inspiração](#a-inspiração)
 
-[O que escrever no README ?](#O-que-escrever-no-README?)
+[O que escrever no README ?](#o-que-escrever-no-readme)
 
 [Ferramentas](#ferramentas)
 
-[Possibilidades](#Possibilidades)
+[Possibilidades](#possibilidades)
 
-	- [Índices](#índices)
-	- [Links](#Links)
-	- [Tabelas](#Tabelas)
-	- [Inserir imagem](#Inserir-imagem])
-	- [Centralizar conteúdo](#Centralizar-conteúdo])
-	- [Linha separadora](#Linha-separadora)
-	- [Itens](#Itens)
+- [Títulos](#títulos)
+- [Índices](#índices)
+- [Links](#links)
+- [Tabelas](#tabelas)
+- [Inserir imagem](#inserir-imagem)
+- [Centralizar conteúdo](#centralizar-conteúdo)
+- [Linha separadora](#linha-separadora)
+- [Itens](#itens)
 
-[Autora](#Autora)
+[Autora](#autora)
 
 [Referências](#referências)
 
@@ -28,7 +29,7 @@
 
 
 
-## Por que se dedicar ao README?
+## Por que se dedicar ao README
 
 O README serve como um "cartão de visitas", é importante para que outras pessoas possam entender do que se trata o projeto, essas pessoas podem ser recrutadores e desenvolvedores. Eu acrescento que **o README também é importante para você**, pois após um tempo sem rever o projeto é comum esquecer certas coisas, então tenha o README como um resumo do que se trata o seu projeto para que seu eu do futuro possa relembrar (assim espero :upside_down_face: rsrs).
 
@@ -85,8 +86,8 @@ Exemplo:
 Para criar índices no markdown se usa a sintaxe `[título](#seção)` , a seção deve estar escrita exatamente como o título da seção, se houver espaços será necessário colocar - , exemplos:
 
 ```markdown
-[Exemplo Do Índice](#índice)
-[Exemplo de índice com espaços](#este-possui-espaços)
+[Índice](#índice)
+[Este possui espaços](#este-possui-espaços)
 [Pode ter mesmo nome](#pode-ter-mesmo-nome)
 
 ## Índice
@@ -253,6 +254,7 @@ Usando `-` é possível criar itens e subitens
 - [Badges](https://shields.io/)
 
 
+---
 
 :arrow_up_small: [Voltar ao início](#readme)
 
