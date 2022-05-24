@@ -252,7 +252,7 @@ Usando `-` é possível criar itens e subitens
 - [O que é README e porque ele é tão importante? (rocketseat.com.br)](https://blog.rocketseat.com.br/o-que-e-readme-e-porque-e-tao-importante/)
 - [Básico HTML - tabela](https://www.w3schools.com/html/html_tables.asp)
 - [Badges](https://shields.io/)
-
+- [Sintaxe básica de escrita e formatação no GitHub](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#task-lists)
 
 ---
 
